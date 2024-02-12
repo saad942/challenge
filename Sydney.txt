@@ -1,0 +1,1 @@
+Temperature in Sydney is: 21Â°C
